@@ -32,7 +32,7 @@ Here, I will document the questions or challenges I face each day, along with my
 
 ### Day 1: Write a program to identify if the character is a vowel or consonant
 - **Question:** Write a program to identify if the character is a vowel or consonant.
-- **Solution:** [Link to the solution or a brief summary]
+- **Solution:** (https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day1.py)
 - **Learnings:** Fundamentals, Flow Control
 
 ### Day 2: [Question Title or Description]
