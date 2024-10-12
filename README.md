@@ -32,17 +32,17 @@ Here, I will document the questions or challenges I face each day, along with my
 
 ### Day 1: 
 - **Question:** Write a program to identify if the character is a vowel or consonant.
-- **Solution:** [Vowel/consonant](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day1.py)
+- **Solution:** [Vowel/consonant](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day1.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day1.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ### Day 2: 
 - **Question:** Write a program to identify if the character is an alphabet or not.
-- **Solution:** [Alphabet/not](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day2.py)
+- **Solution:** [Alphabet/not](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day2.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day2.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ### Day 3: 
 - **Question:** Write a program to find ASCII values of a character
-- **Solution:** [ASCII(Char)](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py)
+- **Solution:** [ASCII(Char)](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day3.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ## Technologies Used
