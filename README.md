@@ -7,6 +7,7 @@ Welcome to my repository for the **100 Days Coding Challenge** hosted by **Talen
 - [Introduction](#introduction)
 - [Goals](#goals)
 - [Daily Progress](#daily-progress)
+- [Daily Questions](#daily-questions)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Connect with Me](#connect-with-me)
@@ -24,6 +25,21 @@ The **100 Days Coding Challenge** is a structured program designed to help parti
 ## Daily Progress
 
 Throughout the challenge, I will document my daily progress in this repository. Each day's work will be organized in separate folders with detailed notes, solutions, and any additional resources I find helpful.
+
+## Daily Questions
+
+Here, I will document the questions or challenges I face each day, along with my solutions and thought processes. This section will serve as a reflection of my learning journey and help me track my growth.
+
+### Day 1: Write a program to identify if the character is a vowel or consonant
+- **Question:** Write a program to identify if the character is a vowel or consonant.
+- **Solution:** [Link to the solution or a brief summary]
+- **Learnings:** Fundamentals, Flow Control
+
+### Day 2: [Question Title or Description]
+- **Question:** [Brief description of the challenge or problem]
+- **Solution:** [Link to the solution or a brief summary]
+- **Learnings:** [Key takeaways from solving this problem]
+
 
 ## Technologies Used
 
