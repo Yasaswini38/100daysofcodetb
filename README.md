@@ -30,16 +30,20 @@ Throughout the challenge, I will document my daily progress in this repository. 
 
 Here, I will document the questions or challenges I face each day, along with my solutions and thought processes. This section will serve as a reflection of my learning journey and help me track my growth.
 
-### Day 1: Write a program to identify if the character is a vowel or consonant
+### Day 1: 
 - **Question:** Write a program to identify if the character is a vowel or consonant.
-- **Solution:** (https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day1.py)
+- **Solution:** [Vowel/consonant](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day1.py)
 - **Learnings:** Fundamentals, Flow Control
 
-### Day 2: [Question Title or Description]
-- **Question:** [Brief description of the challenge or problem]
-- **Solution:** [Link to the solution or a brief summary]
-- **Learnings:** [Key takeaways from solving this problem]
+### Day 2: 
+- **Question:** Write a program to identify if the character is an alphabet or not.
+- **Solution:** [Alphabet/not](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day2.py)
+- **Learnings:** Fundamentals, Flow Control
 
+### Day 3: 
+- **Question:** Write a program to find ASCII values of a character
+- **Solution:** [ASCII(Char)](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py)
+- **Learnings:** Fundamentals, Flow Control
 
 ## Technologies Used
 
