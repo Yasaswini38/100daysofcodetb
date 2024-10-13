@@ -37,17 +37,17 @@ Here, I will document the questions or challenges I face each day, along with my
 
 ### Day 2: 
 - **Question:** Write a program to identify if the character is an alphabet or not.
-- **Solution:** Alphabet/not-(https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day2.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day2.java)
+- **Solution:** Alphabet/not-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day2.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day2.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ### Day 3: 
 - **Question:** Write a program to find ASCII values of a character
-- **Solution:** ASCII(Char)-(https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day3.java)
+- **Solution:** ASCII(Char)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day3.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ### Day 4: 
 - **Question:** Write a program to identify of the a number is positive or negative
-- **Solution:** ASCII(Char)-(https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day4.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day4.java)
+- **Solution:** +ve/-ve-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day4.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day4.java)
 - **Learnings:** Fundamentals, Flow Control
 
 ## Technologies Used
