@@ -45,6 +45,11 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** ASCII(Char)-(https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day3.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day3.java)
 - **Learnings:** Fundamentals, Flow Control
 
+### Day 4: 
+- **Question:** Write a program to identify of the a number is positive or negative
+- **Solution:** ASCII(Char)-(https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day4.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day4.java)
+- **Learnings:** Fundamentals, Flow Control
+
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
