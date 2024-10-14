@@ -50,6 +50,11 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** +ve/-ve-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day4.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day4.java)
 - **Learnings:** Fundamentals, Flow Control
 
+### Day 4: 
+- **Question:** Write a program to identify if the number is even or odd
+- **Solution:** %2==0-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day5.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day5.java)
+- **Learnings:** Fundamentals, Flow Control
+  
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
