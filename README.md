@@ -60,6 +60,12 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** (x,y) in q=[1,2,3,4]-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day6.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day6.java)
 - **Learnings:** Fundamentals, Flow Control , Operators
 
+### Day 7: 
+- **Question:** Write a program to find Number of days in a given month of a given year
+- **Solution:** days(month) in q=[1,2,3,4]-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day7.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day7.java)
+- **Learnings:** Fundamentals, Flow Control , Operators
+
+  
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
