@@ -13,10 +13,7 @@ def daizz(month, year):
     elif month in mon30:
         return 30
     elif month == "February":
-        if yrchk(year):
-            return 29  #leap
-        else:
-            return 28 #non leap
+        return 29 if yrchk(year) else 28
     else:
         return "Invalid month" 
 
