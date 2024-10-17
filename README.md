@@ -62,18 +62,18 @@ Here, I will document the questions or challenges I face each day, along with my
 
 ### Day 7: 
 - **Question:** Write a program to find Number of days in a given month of a given year
-- **Solution:** days(month) in q=[1,2,3,4]-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day7.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day7.java)
+- **Solution:** days(month)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day7.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day7.java)
 - **Learnings:** Fundamentals, Flow Control , Operators
 
-  
+### Day 7: 
+- **Question:** Write a program to find roots of a quadratic equation
+- **Solution:** rootswhooo-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day8.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day8.java)
+- **Learnings:** Fundamentals, Flow Control , Operators
+
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
 - **Tools**: Git, GitHub, Visual Studio Code.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
