@@ -65,10 +65,15 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** days(month)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day7.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day7.java)
 - **Learnings:** Fundamentals, Flow Control , Operators
 
-### Day 7: 
+### Day 8: 
 - **Question:** Write a program to find roots of a quadratic equation
 - **Solution:** rootswhooo-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day8.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day8.java)
 - **Learnings:** Fundamentals, Flow Control , Operators
+
+### Day 9: 
+- **Question:** Write a program to find Number of digits in an integer
+- **Solution:** noofdigits-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day9.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day9.java)
+- **Learnings:** Fundamentals, Flow Control , Operators, functions
 
 ## Technologies Used
 
