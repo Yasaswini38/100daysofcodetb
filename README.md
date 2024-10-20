@@ -75,6 +75,16 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** noofdigits-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day9.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day9.java)
 - **Learnings:** Fundamentals, Flow Control , Operators, functions
 
+### Day 10: 
+- **Question:** Write a program to find Factorial of a number
+- **Solution:** fact(n)!-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day10.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day10.java)
+- **Learnings:** Fundamentals, Flow Control , Operators, functions
+
+### Day 11: 
+- **Question:** Write a program to find Fibonacci series up to n
+- **Solution:** fibbb-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day11.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day11.java)
+- **Learnings:** Fundamentals, Flow Control , Operators, functions
+  
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
