@@ -84,6 +84,11 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Question:** Write a program to find Fibonacci series up to n
 - **Solution:** fibbb-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day11.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day11.java)
 - **Learnings:** Fundamentals, Flow Control , Operators, functions
+
+### Day 12: 
+- **Question:** Write a program to find Sum of digits of a number
+- **Solution:** Sum(+)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day12.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day12.java)
+- **Learnings:** Fundamentals, Flow Control , Operators, functions
   
 ## Technologies Used
 
