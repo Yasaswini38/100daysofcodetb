@@ -89,7 +89,13 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Question:** Write a program to find Sum of digits of a number
 - **Solution:** Sum(+)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day12.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day12.java)
 - **Learnings:** Fundamentals, Flow Control , Operators, functions
-  
+
+### Day 13: 
+- **Question:** Write a program to find Sum of N natural numbers
+- **Solution:** Sum(n)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day13.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day13.java)
+- **Learnings:** Fundamentals, Flow Control , Operators
+
+
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
