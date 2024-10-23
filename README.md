@@ -95,7 +95,11 @@ Here, I will document the questions or challenges I face each day, along with my
 - **Solution:** Sum(n)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day13.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day13.java)
 - **Learnings:** Fundamentals, Flow Control , Operators
 
-
+### Day 13: 
+- **Question:** Write a program to reverse a given number
+- **Solution:** Rev(n)-[Python](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Python/day14.py),[Java](https://github.com/Yasaswini38/100daysofcodetb/blob/main/Java/day14.java)
+- **Learnings:** Fundamentals, Flow Control , Operators
+  
 ## Technologies Used
 
 - **Programming Languages**: Python, Java.
