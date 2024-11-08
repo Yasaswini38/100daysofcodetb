@@ -1,13 +1,13 @@
-def calculate_handshakes(n):
-    return n * (n - 1) // 2  
-  
-n = int(input("Enter the number of people in the room: "))
-if n < 0:
-    print("The number of people cannot be negative.")
-else:
-    total_handshakes = calculate_handshakes(n)
-    print(f"The maximum number of handshakes possible among {n} people is: {total_handshakes}")
+# Get the number of people in the room as input from the user. 
+# Then calculate the maximum number of handshakes possible among that people.
+# For e.g. If there are N people in the room then the first person 
+# has to shake hand with N-1 people and second person has to shake hand 
+# with N-1-1 people i.e., N-2 handshakes are possible. Thus, it goes on.
+# So total hand shakes = N-1 + N-2 + N-3 +………+1 + 0 
 
-# To calculate the maximum number of handshakes possible among N people in a room, you can use the formula for the sum of the first N−1N-1N−1 natural numbers, which can be calculated using the formula:
+def maxhandshakes(n):
+    return (n*(n-1))//2 
 
-# Total Handshakes=N×(N−1)2\Total Handshakes = N \(N - 1){2}Total Handshakes=2N×(N−1)​This is because each person can shake hands with every other person exactly once.
+a=int(input("Enter the number of people in the room: " ))
+print("The maximum number of handshakes possible is: ",maxhandshakes(a))
+        
